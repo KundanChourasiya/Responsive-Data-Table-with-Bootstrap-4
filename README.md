@@ -1,6 +1,20 @@
 # Responsive-Data-Table-with-Bootstrap-4
  This table retrieve all the details while search the data. which is developed using bootstrap 4.
 
+
+We must be implement below link for bootstrap datatable css and script
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  
+  
+  <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
+
  1. Basic Data Table.html Link: https://kundanchourasiya.github.io/Responsive-Data-Table-with-Bootstrap-4/1%20Basic%20Data%20Table.html
 ![image](https://github.com/user-attachments/assets/9b1e4429-264d-4741-bb6c-768251fb0665)
 
