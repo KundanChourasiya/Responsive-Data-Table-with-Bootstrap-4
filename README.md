@@ -1,6 +1,11 @@
 # Responsive-Data-Table-with-Bootstrap-4
  This table retrieve all the details while search the data. which is developed using bootstrap 4.
 
+ 
+ 
+![image](https://github.com/user-attachments/assets/fd07b563-eff1-4ebe-9ad8-a3a31fa29981)
+
+
 > [!NOTE]
 > ### We must be implement below link for bootstrap datatable css and JavaScript
 ```
