@@ -2,7 +2,7 @@
  This table retrieve all the details while search the data. which is developed using bootstrap 4.
 
 > [!NOTE]
->We must be implement below link for bootstrap datatable css and JavaScript
+> ### We must be implement below link for bootstrap datatable css and JavaScript
 ```
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css">
