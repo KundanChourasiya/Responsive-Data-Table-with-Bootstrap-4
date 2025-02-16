@@ -14,6 +14,7 @@ We must be implement below link for bootstrap datatable css and script
   
   <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
+  
 
  1. Basic Data Table.html Link: https://kundanchourasiya.github.io/Responsive-Data-Table-with-Bootstrap-4/1%20Basic%20Data%20Table.html
 ![image](https://github.com/user-attachments/assets/9b1e4429-264d-4741-bb6c-768251fb0665)
