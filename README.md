@@ -43,5 +43,5 @@
 8 Scroll Data Table.html Link: https://kundanchourasiya.github.io/Responsive-Data-Table-with-Bootstrap-4/8%20Scroll%20Data%20Table.html
 ![image](https://github.com/user-attachments/assets/5b253ac2-1bf5-45c5-ba49-63ac9e829ce1)
 
-9 Search result highlighting.html Link: https://kundanchourasiya.github.io/Responsive-Data-Table-with-Bootstrap-4/8%20Scroll%20Data%20Table.html
+9 Search result highlighting.html Link: https://kundanchourasiya.github.io/Responsive-Data-Table-with-Bootstrap-4/9%20Search%20result%20highlighting.html
 ![image](https://github.com/user-attachments/assets/372d9e96-d937-4b18-803b-d0394fa9775e)
